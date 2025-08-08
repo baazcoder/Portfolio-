@@ -7,7 +7,7 @@ A personal portfolio showcasing data science and machine learning projects focus
 
 - **FAKE_NEWS** – A Jupyter notebook implementing a fake news classifier using NLP and machine learning techniques.
 - **calorie** – A project (notebook or script) for predicting calorie intake or expenditure using regression or classification models.
-- **first_crop** – An image-processing tool, possibly for cropping or object detection to assist in data visualization or preprocessing.
+- **first_crop** – A crop prediction model according to environment conditions.
 - **README.md** – This documentation file for overview and usage instructions.
 
 ##  Demo
